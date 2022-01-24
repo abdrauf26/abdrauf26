@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdrauf26
-- 👀 I’m interested in data science and data amalytics
+- 👀 I’m interested in data science and data analytics.. 
 - 🌱 I’m currently learning applied data science with machine learning
 - 💞️ I’m looking to collaborate on learning in data science and data analytics
 - 📫 How to reach me raufschoolbag@gmail.com
