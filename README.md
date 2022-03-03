@@ -7,8 +7,7 @@ I enjoy appreciating simple things in life such as being present with my family,
 
 💻 My skills that I am developing everyday includes python, Pandas, Numpy, plotly, seaborn, Matplotlib. 
 
-📚 My current project includes :
-- [Data Analysis in Singapore Condominiums and Apartments ( 2017 to 2022)](https://github.com/abdrauf26/abdul_rauf_repo)
+📚 My current project includes [Data Analysis in Singapore Condominiums and Apartments ( 2017 to 2022)](https://github.com/abdrauf26/abdul_rauf_repo)
 
 📫 How to reach me - rauf.yusope@gmail.com 
 
