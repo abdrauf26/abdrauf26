@@ -13,7 +13,9 @@ I enjoy appreciating simple things in life such as being present with my family,
 Have an awesome day! 
 
 Best Regards
+
 Abdul Rauf
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/abdrauf26/) | [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/abdrauf26)
 
 <!---
