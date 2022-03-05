@@ -24,7 +24,7 @@ Abdul Rauf
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/abdrauf26/)    [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/abdrauf26)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=abdrauf26&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=abdrauf26&show_icons=true&theme=prussian)
 
 <!---
 abdrauf26/abdrauf26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
