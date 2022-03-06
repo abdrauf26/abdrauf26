@@ -10,9 +10,7 @@ My skills that I am developing everyday includes [![Python Badge](https://img.sh
 
 My current project includes [Data Analysis in Singapore Condominiums and Apartments (2017 to 2022) - Unit Price($psf)](https://github.com/abdrauf26/abdul_rauf_repo)
 
-Thank you for coming in to the site here. It's been a wonderful experience venturing into the data analysis process. 
-
-Have an awesome day! 
+Thank you for coming in to the site here. Have an awesome day! 
 
 
 Abdul Rauf
