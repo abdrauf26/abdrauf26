@@ -6,7 +6,7 @@ Hi! I am Rauf from Singapore. I am a sports educator who found love in data anal
 Since learning about data science and data analytics, it had inspired me to learn further into the subject realm. Everyday has been a learning journey for me. And I love that ! 
 I enjoy appreciating simple things in life such as being present with my family,  learning, reading and discussing about history, real estate, financial literacy and watching footballing geniuses such as Cantona, Riquelme, Zidane, Ronaldinho and Ronaldo playing the beautiful game. ⚽
 
-### Skills
+## Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
