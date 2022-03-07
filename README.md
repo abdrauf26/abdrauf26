@@ -6,11 +6,11 @@ Since learning about data science and data analytics, it had inspired me to lear
 I enjoy appreciating simple things in life such as being present with my family,  learning, reading and discussing about history, real estate, financial literacy and watching footballing geniuses such as Cantona, Riquelme, Zidane, Ronaldinho and Ronaldo playing the beautiful game. ⚽
 
 My skills that I am developing everyday includes :
-- [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)](https://www.python.org/)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)(https://www.python.org/)
 - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 - ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-- seaborn
+- Seaborn
 - Matplotlib. 
 
 My current project includes [Data Analysis in Singapore Condominiums and Apartments (2017 to 2022) - Unit Price($psf)](https://github.com/abdrauf26/abdul_rauf_repo)
