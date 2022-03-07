@@ -21,10 +21,6 @@ I enjoy appreciating simple things in life such as being present with my family,
 ![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat) - rauf.yusope@gmail.com
 
 
-Thank you for coming in to the site here. Have an awesome day! 
-
-Abdul Rauf
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=abdrauf26&show_icons=true&theme=prussian)
 
 <!---
