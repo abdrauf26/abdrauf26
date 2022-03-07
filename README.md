@@ -11,18 +11,20 @@ I enjoy appreciating simple things in life such as being present with my family,
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ## Project
-My current project includes [Data Analysis in Singapore Condominiums and Apartments (2017 to 2022) - Unit Price($psf)](https://github.com/abdrauf26/abdul_rauf_repo)
 
-Thank you for coming in to the site here. Have an awesome day! 
+[Data Analysis in Singapore Condominiums and Apartments (2017 to 2022) - Unit Price($psf)](https://github.com/abdrauf26/abdul_rauf_repo)
 
-
-Abdul Rauf
+## Contact 📧 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/abdrauf26/)  [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/abdrauf26) [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat)](https://medium.com/@rauf.yusope)
 
 ![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat) - rauf.yusope@gmail.com
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=abdrauf26&show_icons=true&theme=prussian)
+
+Thank you for coming in to the site here. Have an awesome day! 
+
+Abdul Rauf
 
 <!---
 abdrauf26/abdrauf26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
