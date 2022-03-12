@@ -12,7 +12,7 @@ I enjoy appreciating simple things in life such as being present with my family,
 
 ## Project
 
-[How we found out that 2021 had the highest volume of sales for Singapore Condominiums and Apartments, using Big Data.](https://github.com/abdrauf26/abdul_rauf_repo)
+1. [How we found out that 2021 had the highest volume of sales for Singapore Condominiums and Apartments, using Big Data.](https://github.com/abdrauf26/abdul_rauf_repo)
 
 ## Contact 📧 
 
