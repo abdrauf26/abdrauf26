@@ -14,7 +14,6 @@ I enjoy appreciating simple things in life such as being present with my family,
 
 [![image](https://user-images.githubusercontent.com/96287600/158199702-df0fb3fb-deb6-433a-b0d5-1b814aabbbfd.png)](https://github.com/abdrauf26/abdul_rauf_repo)
 
-[How we found out that 2021 had the highest volume of sales for Singapore Condominiums and Apartments, using Big Data.](https://github.com/abdrauf26/abdul_rauf_repo)
 
 ## Contact 📧 
 
