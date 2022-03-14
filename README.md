@@ -12,7 +12,7 @@ I enjoy appreciating simple things in life such as being present with my family,
 
 ## Project
 
-![image](https://user-images.githubusercontent.com/96287600/158199157-b844aa51-1810-47d0-a16f-bdc33c23832e.png)
+[![image](https://user-images.githubusercontent.com/96287600/158199157-b844aa51-1810-47d0-a16f-bdc33c23832e.png)](https://github.com/abdrauf26/abdul_rauf_repo)
 
 [How we found out that 2021 had the highest volume of sales for Singapore Condominiums and Apartments, using Big Data.](https://github.com/abdrauf26/abdul_rauf_repo)
 
