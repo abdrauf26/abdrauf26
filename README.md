@@ -24,6 +24,8 @@ I enjoy appreciating simple things in life such as being present with my family,
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=abdrauf26&show_icons=true&theme=prussian)
 
+<img src = hhtps://komarev.com/ghpvc/?username = abdrauf26/>
+
 <!---
 abdrauf26/abdrauf26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
