@@ -23,9 +23,6 @@ I enjoy appreciating simple things in life such as being present with my family,
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=abdrauf26&show_icons=true&theme=prussian) 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdrauf26&theme=blue-green) <img src="https://komarev.com/ghpvc/?username=abdrauf26"/> 
-
-
 
 
 <!---
