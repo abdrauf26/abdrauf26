@@ -30,6 +30,8 @@ I enjoy appreciating simple things in life such as being present with my family,
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here)
+
 <!---
 abdrauf26/abdrauf26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
