@@ -21,9 +21,7 @@ I enjoy appreciating simple things in life such as being present with my family,
 
 ![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat) - rauf.yusope@gmail.com  
 
-![github stats](https://github-readme-stats.vercel.app/api?username=abdrauf26&show_icons=true&theme=prussian)
-
-<img src="https://komarev.com/ghpvc/?username=abdrauf26"/> 
+![github stats](https://github-readme-stats.vercel.app/api?username=abdrauf26&show_icons=true&theme=prussian) <img src="https://komarev.com/ghpvc/?username=abdrauf26"/> 
 
 
 
