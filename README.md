@@ -4,7 +4,7 @@
 Hi! I am Rauf from Singapore. I am a sports educator who found love in data analytics.📉 
 
 Since learning about data science and data analytics, it had inspired me to learn further into the subject realm. Everyday has been a learning journey for me. And I love that ! 
-I enjoy appreciating simple things in life such as being present with my family,  learning, reading and discussing about history, real estate, financial literacy and watching footballing geniuses such as Cantona, Riquelme, Zidane, Ronaldinho and Ronaldo playing the beautiful game. ⚽
+I enjoy appreciating simple things in life such as being present with my family,  learning, reading and discussing about real estate, financial literacy, history, and watching footballing geniuses such as Cantona, Riquelme, Zidane, Ronaldinho and Ronaldo playing the beautiful game. ⚽
 
 ## Skills
 
