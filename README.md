@@ -14,7 +14,7 @@ I enjoy appreciating simple things in life such as being present with my family,
 ## Project
 
 [![image](https://user-images.githubusercontent.com/96287600/159918685-0d6984c9-4690-4cc8-ab62-1a11eb4bab95.png)](https://github.com/abdrauf26/abdul_rauf_repo)
-![image](https://user-images.githubusercontent.com/96287600/161528061-83590910-acd6-4ff3-a792-069fca8a7a22.png)
+![image](https://user-images.githubusercontent.com/96287600/161528241-42435f11-9de1-46c5-9f8a-30514388930d.png)
 
 
 
