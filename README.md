@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/96287600/156496395-064c497e-be5d-404d-aaf8-04f0a295df27.png)
-
 ## About 
 Hi! I am Rauf from Singapore. I am a sports educator who found love in data analytics.📉 
 
