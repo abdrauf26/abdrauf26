@@ -11,11 +11,11 @@ I enjoy appreciating simple things in life such as being present with my family,
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat) ![Plotly Badge](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=flat) ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat) ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat) ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat) 
 
 ## Projects
-### Project 1 : Why 2021 had the highest volume of sales for Singapore Condominiums and Apartments, using Data
+#### Why 2021 had the highest volume of sales for Singapore Condominiums and Apartments, using Data
 
 [![image](https://user-images.githubusercontent.com/96287600/159918685-0d6984c9-4690-4cc8-ab62-1a11eb4bab95.png)](https://github.com/abdrauf26/abdul_rauf_repo)
 
-### Project 2 - How Sengkang has the number of highest HDB units sold in Singapore, using Tableau
+### How Sengkang has the number of highest HDB units sold in Singapore, using Tableau
 [![image](https://user-images.githubusercontent.com/96287600/161565008-39ba33fc-8194-48a5-a288-751fc89358d8.png)](https://public.tableau.com/app/profile/mohamed.abdul.rauf/viz/HowSengkanghasthenumberofhighestHDBunitssoldinSingaporeusingTableau_/HowSengkanghasthenumberofhighestHDBunitssoldinSingaporeusingTableau_)
 
 
