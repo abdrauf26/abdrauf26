@@ -17,8 +17,6 @@ I enjoy appreciating simple things in life such as being present with my family,
 
 ![image](https://user-images.githubusercontent.com/96287600/163524930-0dc4e078-208f-4e2a-a251-3b6ee82bfb31.png)
 
-
-
 ## Contact 📧 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/abdrauf26/) [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat)](https://public.tableau.com/app/profile/mohamed.abdul.rauf) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/abdrauf26) [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat)](https://medium.com/@rauf.yusope) 
