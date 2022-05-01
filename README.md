@@ -23,10 +23,10 @@ Every new day has been such a fulfilling learning journey and I am excited for w
 
 ## Social 📧 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/abdrauf26/) [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat)](https://public.tableau.com/app/profile/mohamed.abdul.rauf) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/abdrauf26) [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat)](https://medium.com/@rauf.yusope) ![Profile views](https://gpvc.arturio.dev/abdrauf26) 
+[![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat)](https://www.cloudskillsboost.google/public_profiles/c2ff4f8e-4f42-4380-b038-73104c7d98fc) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/abdrauf26/) [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat)](https://public.tableau.com/app/profile/mohamed.abdul.rauf) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/abdrauf26) [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat)](https://medium.com/@rauf.yusope) ![Profile views](https://gpvc.arturio.dev/abdrauf26) 
 
-[![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat)](https://www.cloudskillsboost.google/public_profiles/c2ff4f8e-4f42-4380-b038-73104c7d98fc)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)] (mailto:rauf.yusope@gmail.com)
+
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdrauf26&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
