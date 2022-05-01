@@ -1,10 +1,10 @@
 ![image](https://user-images.githubusercontent.com/96287600/161567628-443c965b-f5d9-4cb4-af92-94b35a7e5dbc.png)
 
 ## About 
-Hi! I am Rauf from Singapore. I am a sports educator who found love in data analytics.📉 
 
-Since learning about data science and data analytics, it had inspired me to learn further into the subject realm. Everyday has been a learning journey for me. And I love that ! 
-I enjoy appreciating simple things in life such as being present with my family,  learning, reading and discussing about real estate, financial literacy, history, and watching footballing geniuses such as Cantona, Riquelme, Zidane, Ronaldinho and Ronaldo playing the beautiful game. ⚽
+Hi! I am Rauf from Singapore. I am a former educator who has since found love in data science and data analytics. 
+
+Every new day has been such a fulfilling learning journey and I am excited for what comes ahead. I enjoy the simple things in life such as spending quality time with my family and enjoying good food from different cuisines is a bond I share with my lovely wife of 13 years. I have also been reading up on real estate, financial literacy, history and football. I am always up for a lively discussion on any of those topics! I am currently undergoing Tech Immersion and Placement Programme for Applied Data Science with Machine Learning.
 
 ## Skills
 
@@ -22,10 +22,11 @@ I enjoy appreciating simple things in life such as being present with my family,
 
 
 ## Social 📧 
-[![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat)](https://www.cloudskillsboost.google/public_profiles/c2ff4f8e-4f42-4380-b038-73104c7d98fc) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/abdrauf26/) [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat)](https://public.tableau.com/app/profile/mohamed.abdul.rauf) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/abdrauf26) [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat)](https://medium.com/@rauf.yusope) ![Profile views](https://gpvc.arturio.dev/abdrauf26) 
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/abdrauf26/) [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat)](https://public.tableau.com/app/profile/mohamed.abdul.rauf) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/abdrauf26) [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat)](https://medium.com/@rauf.yusope) ![Profile views](https://gpvc.arturio.dev/abdrauf26) 
 
-
+[![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat)](https://www.cloudskillsboost.google/public_profiles/c2ff4f8e-4f42-4380-b038-73104c7d98fc)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)] (mailto:rauf.yusope@gmail.com)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdrauf26&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
