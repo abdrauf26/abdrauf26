@@ -20,6 +20,8 @@ Every new day has been such a fulfilling learning journey and I am excited for w
 
 [![image](https://user-images.githubusercontent.com/96287600/163976546-c012a39b-1734-4e36-9696-6fe7c8a3aad7.png)](https://github.com/abdrauf26/my_sql_repo)
 
+![image](https://user-images.githubusercontent.com/96287600/166966599-2688e0f0-7ee7-4b02-80f8-9fb4f67de97f.png)
+
 
 ## Social 📧 
 
