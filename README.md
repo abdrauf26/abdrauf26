@@ -1,4 +1,4 @@
-
+![Header](./your-header-image-name.png)
 ## About 
 
 Hi! I am Rauf from Singapore. I am a former educator who has since found love in data science and data analytics. 
