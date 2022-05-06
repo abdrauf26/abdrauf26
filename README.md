@@ -2,7 +2,7 @@
 
 ## About 
 
-Hi! I am Rauf from Singapore. I am a former educator who has since found love in data science and data analytics. 
+I am a former educator from Singapore who has since found love in data science and data analytics. 
 
 Every new day has been such a fulfilling learning journey and I am excited for what comes ahead. I enjoy the simple things in life such as spending quality time with my family and enjoying good food from different cuisines is a bond I share with my lovely wife of 13 years. I have also been reading up on real estate, financial literacy, history and football. I am always up for a lively discussion on any of those topics! I am currently undergoing Tech Immersion and Placement Programme for Applied Data Science with Machine Learning.
 
