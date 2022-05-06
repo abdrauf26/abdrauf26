@@ -1,4 +1,5 @@
-![Header](./your-header-image-name.png)
+![image](https://user-images.githubusercontent.com/96287600/167055327-cbd4aed3-23fb-45a7-9801-d2dd737899ad.png)
+
 ## About 
 
 Hi! I am Rauf from Singapore. I am a former educator who has since found love in data science and data analytics. 
