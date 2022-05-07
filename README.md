@@ -14,13 +14,15 @@ Every new day has been such a fulfilling learning journey and I am excited for w
 ## Projects
 [![image](https://user-images.githubusercontent.com/96287600/159918685-0d6984c9-4690-4cc8-ab62-1a11eb4bab95.png)](https://github.com/abdrauf26/abdul_rauf_repo)
 
+[![image](https://user-images.githubusercontent.com/96287600/166969705-2c793d33-1be5-49da-93d5-d5e7f87123d3.png)](https://github.com/abdrauf26/ml_repo)
+
 [![image](https://user-images.githubusercontent.com/96287600/161565008-39ba33fc-8194-48a5-a288-751fc89358d8.png)](https://public.tableau.com/app/profile/mohamed.abdul.rauf/viz/HowSengkanghasthenumberofhighestHDBunitssoldinSingaporeusingTableau_/HowSengkanghasthenumberofhighestHDBunitssoldinSingaporeusingTableau_)
 
 [![image](https://user-images.githubusercontent.com/96287600/163551843-d4fb392b-713f-43fc-acba-0cd678a04129.png)](https://github.com/abdrauf26/web_scraping_repo)
 
 [![image](https://user-images.githubusercontent.com/96287600/163976546-c012a39b-1734-4e36-9696-6fe7c8a3aad7.png)](https://github.com/abdrauf26/my_sql_repo)
 
-[![image](https://user-images.githubusercontent.com/96287600/166969705-2c793d33-1be5-49da-93d5-d5e7f87123d3.png)](https://github.com/abdrauf26/ml_repo)
+
 
 
 
