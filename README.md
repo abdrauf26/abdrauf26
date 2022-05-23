@@ -35,7 +35,7 @@ Every new day has been such a fulfilling learning journey and I am excited for w
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdrauf26&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=abdrauf26&theme=prussian)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdrauf26&theme=dark)](https://git.io/streak-stats)
 
 
 <!---
