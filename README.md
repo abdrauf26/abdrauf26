@@ -12,7 +12,7 @@ Every new day has been such a fulfilling learning journey and I am excited for w
 
 
 ## Projects
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/96287600/171625874-85257b45-f158-4433-a40e-05996ba0c211.png)
 
 [![image](https://user-images.githubusercontent.com/96287600/159918685-0d6984c9-4690-4cc8-ab62-1a11eb4bab95.png)](https://github.com/abdrauf26/abdul_rauf_repo)
 
