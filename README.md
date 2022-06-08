@@ -2,7 +2,8 @@
 
 ## About 
 
-I am a consultant for Future Skills at Sustainable Living Lab (SL2). Every new day has been such a fulfilling learning journey and I am excited for what comes ahead. I enjoy the simple things in life such as spending quality time with my family and enjoying good food from different cuisines is a bond I share with my lovely wife of 13 years. I have also been reading up on real estate, financial literacy, history and football. I am always up for a lively discussion on any of those topics! Having undergone the Tech Immersion and Placement Programme for Applied Data Science with Machine Learning, the skills that I am developing continually include Python, Tableau, Pandas, Numpy, Plotly, Seaborn, Matplotlib and MYSQL.
+Currently a consultant for Future Skills at Sustainable Living Lab (SL2). Every new day has been a fulfilling learning journey for me in the tech space and I am excited for what lies ahead. I love data visualization and making complex concepts and formulas easy to understand for audiences of any age. This is rooted to my previous background in education where I would have needed to teach new concepts to younger age groups. 
+Having undergone the Tech Immersion and Placement Programme for Applied Data Science with Machine Learning, I am continually developing my skills, which include Python, Tableau, Pandas, Numpy, Plotly, Matplotlib and MYSQL. I have also been reading up on tech developments such as Web 3.0, Metaverse, AI, Data Science, Machine Learning and for fun, the tech advances surrounding my favourite sport, football.
 
 ## Skills
 
