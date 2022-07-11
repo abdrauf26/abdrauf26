@@ -19,6 +19,8 @@ Having undergone the Tech Immersion and Placement Programme for Applied Data Sci
 
 [![image](https://user-images.githubusercontent.com/96287600/161565008-39ba33fc-8194-48a5-a288-751fc89358d8.png)](https://public.tableau.com/app/profile/mohamed.abdul.rauf/viz/HowSengkanghasthenumberofhighestHDBunitssoldinSingaporeusingTableau_/HowSengkanghasthenumberofhighestHDBunitssoldinSingaporeusingTableau_)
 
+[![image](https://user-images.githubusercontent.com/96287600/178280374-6d62400d-6d19-4d71-9498-8a1a7da7f8d1.png)](https://github.com/abdrauf26/data_visualization)
+
 [![image](https://user-images.githubusercontent.com/96287600/163551843-d4fb392b-713f-43fc-acba-0cd678a04129.png)](https://github.com/abdrauf26/web_scraping_repo)
 
 [![image](https://user-images.githubusercontent.com/96287600/163976546-c012a39b-1734-4e36-9696-6fe7c8a3aad7.png)](https://github.com/abdrauf26/my_sql_repo)
