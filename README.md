@@ -1,16 +1,5 @@
 ![image](https://user-images.githubusercontent.com/96287600/168872368-78171dab-f361-4a34-88dd-986dfd39341a.png)
 
-<script SameSite="None; Secure" src="https://cdn.landbot.io/landbot-3/landbot-3.0.0.js"></script>
-<div id="myLandbot" style="width: 100%; height: 500px"></div>
-<script>
-  var myLandbot = new Landbot.Container({
-    container: '#myLandbot',
-    configUrl: 'https://landbot.site/v3/H-1325097-TQME4Z6L8JOT0HUF/index.json',
-  });
-</script>
-
-
-
 ## About 
 
 Currently a consultant for Future Skills at Sustainable Living Lab (SL2). Every new day has been a fulfilling learning journey for me in the tech space and I am excited for what lies ahead. I love data visualization and making complex concepts and formulas easy to understand for audiences of any age. This is rooted to my previous background in education where I would have needed to teach new concepts to younger age groups. 
