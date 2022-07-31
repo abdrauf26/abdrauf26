@@ -25,7 +25,7 @@ Having undergone the Tech Immersion and Placement Programme for Applied Data Sci
 
 [![image](https://user-images.githubusercontent.com/96287600/163976546-c012a39b-1734-4e36-9696-6fe7c8a3aad7.png)](https://github.com/abdrauf26/my_sql_repo)
 
-[![image](https://user-images.githubusercontent.com/96287600/182018968-16b5a819-f0b1-4e17-8fc5-03be0edab60e.png)](https://github.com/abdrauf26/Neural-Style-Transfer)
+[![image](https://user-images.githubusercontent.com/96287600/182019004-83960c75-13f4-42e3-ba4c-de64deedde7d.png)](https://github.com/abdrauf26/Neural-Style-Transfer)
 
 
 
