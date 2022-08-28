@@ -13,7 +13,7 @@ Having undergone the Tech Immersion and Placement Programme for Applied Data Sci
 ## Projects
 [![image](https://user-images.githubusercontent.com/96287600/171625874-85257b45-f158-4433-a40e-05996ba0c211.png)](https://github.com/abdrauf26/champions_league_repo)
 
-[![image](https://user-images.githubusercontent.com/96287600/187082725-6d5aec93-5fc4-4e1c-a1ac-001fe1b6ac44.png)](https://github.com/abdrauf26/abdul_rauf_repo)
+[![image](https://user-images.githubusercontent.com/96287600/187084184-9bfdc17b-bc9e-4c54-bde9-ae9c7e2ebfce.png)](https://github.com/abdrauf26/abdul_rauf_repo)
 
 [![image](https://user-images.githubusercontent.com/96287600/167428747-62a64b60-fc42-40a0-a211-fb19fac4157d.png)](https://github.com/abdrauf26/ml_repo)
 
