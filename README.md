@@ -37,7 +37,6 @@ Having undergone the Tech Immersion and Placement Programme for Applied Data Sci
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdrauf26&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdrauf26&theme=default)](https://git.io/streak-stats)
 
 <!---
