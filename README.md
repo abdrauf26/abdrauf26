@@ -23,6 +23,9 @@ Having undergone the Tech Immersion and Placement Programme for Applied Data Sci
 
 [<img width="1073" alt="image" src="https://user-images.githubusercontent.com/96287600/214327712-995fda77-d92b-49cb-9626-86905ff15128.png">](https://github.com/abdrauf26/financial_literacy_using_python)
 
+[<img width="958" alt="image" src="https://user-images.githubusercontent.com/96287600/214567320-118cd939-4f19-411a-8012-48dd8da76724.png">
+](https://github.com/abdrauf26/Makecode_Arcade_Mathematics)
+
 [![image](https://user-images.githubusercontent.com/96287600/163551843-d4fb392b-713f-43fc-acba-0cd678a04129.png)](https://github.com/abdrauf26/web_scraping_repo)
 
 [![image](https://user-images.githubusercontent.com/96287600/163976546-c012a39b-1734-4e36-9696-6fe7c8a3aad7.png)](https://github.com/abdrauf26/my_sql_repo)
