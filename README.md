@@ -23,10 +23,10 @@ Having undergone the Tech Immersion and Placement Programme for Applied Data Sci
 
 [<img width="1073" alt="image" src="https://user-images.githubusercontent.com/96287600/214327712-995fda77-d92b-49cb-9626-86905ff15128.png">](https://github.com/abdrauf26/financial_literacy_using_python)
 
-[<img width="958" alt="image" src="https://user-images.githubusercontent.com/96287600/214567320-118cd939-4f19-411a-8012-48dd8da76724.png">
+[<img width="1073" alt="image" src="https://user-images.githubusercontent.com/96287600/214567320-118cd939-4f19-411a-8012-48dd8da76724.png">
 ](https://github.com/abdrauf26/Makecode_Arcade_Mathematics)
 
-[<img width="955" alt="image" src="https://user-images.githubusercontent.com/96287600/214588331-01a92a26-f208-4e25-b4e2-2d517cbf1564.png">
+[<img width="1073" alt="image" src="https://user-images.githubusercontent.com/96287600/214588331-01a92a26-f208-4e25-b4e2-2d517cbf1564.png">
 ](https://github.com/abdrauf26/learning_microbit_proj)
 
 [![image](https://user-images.githubusercontent.com/96287600/163551843-d4fb392b-713f-43fc-acba-0cd678a04129.png)](https://github.com/abdrauf26/web_scraping_repo)
