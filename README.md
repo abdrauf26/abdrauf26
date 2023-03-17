@@ -33,10 +33,7 @@ Having undergone the Tech Immersion and Placement Programme for Applied Data Sci
 
 [![image](https://user-images.githubusercontent.com/96287600/163976546-c012a39b-1734-4e36-9696-6fe7c8a3aad7.png)](https://github.com/abdrauf26/my_sql_repo)
 
-[![image](https://user-images.githubusercontent.com/96287600/182019004-83960c75-13f4-42e3-ba4c-de64deedde7d.png)](https://github.com/abdrauf26/Neural-Style-Transfer)
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="raufyusope" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sg.linkedin.com/in/raufyusope?trk=profile-badge">Abdul Rauf</a></div>
-              
+[![image](https://user-images.githubusercontent.com/96287600/182019004-83960c75-13f4-42e3-ba4c-de64deedde7d.png)](https://github.com/abdrauf26/Neural-Style-Transfer)            
 
 ## Social 📧 
 
