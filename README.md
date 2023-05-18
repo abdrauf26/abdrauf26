@@ -2,8 +2,15 @@
 
 ## About 
 
-Every new day has been a fulfilling learning journey for me in the tech space and I am excited for what lies ahead. I love data visualization and making complex concepts and formulas easy to understand for audiences of any age. This is rooted to my previous background in education where I would have needed to teach new concepts to younger age groups. 
-Having undergone the Tech Immersion and Placement Programme for Applied Data Science with Machine Learning, I am continually developing my skills, which include Python, Tableau, Pandas, Numpy, Plotly, Matplotlib and MYSQL. I have also been reading up on tech developments such as Data Analytics, Metaverse, Data Science, Machine Learning and for fun, the tech advances surrounding my favourite sport, football.
+Dedicated and tech-savvy professional with a strong commitment to simplifying complex concepts for 
+diverse audiences. Adept at delivering engaging and effective learning experiences through both 
+face to-face and online teaching methodologies. Skilled in data analysis and visualization using 
+Python, Tableau, Pandas, NumPy, Plotly, Matplotlib, and MYSQL. Actively pursuing new learning 
+opportunities to stay at the forefront of Data Analytics advancements. With a background in 
+education, adept at creating engaging and effective learning experiences tailored to diverse 
+audiences. Excels at bridging the gap between complex data concepts and individuals of all 
+backgrounds. Passionate about utilizing technology to drive data-driven decision making in various 
+domains
 
 ## Skills
 
