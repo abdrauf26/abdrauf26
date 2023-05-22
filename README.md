@@ -10,7 +10,7 @@ opportunities to stay at the forefront of Data Analytics advancements. With a ba
 education, adept at creating engaging and effective learning experiences tailored to diverse 
 audiences. Excels at bridging the gap between complex data concepts and individuals of all 
 backgrounds. Passionate about utilizing technology to drive data-driven decision making in various 
-domains
+domains.
 
 ## Skills
 
