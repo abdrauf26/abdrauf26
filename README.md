@@ -2,15 +2,7 @@
 
 ## About 
 
-Dedicated and tech-savvy professional with a strong commitment to simplifying complex concepts for 
-diverse audiences. Adept at delivering engaging and effective learning experiences through both 
-face to-face and online teaching methodologies. Skilled in data analysis and visualization using 
-Python, Tableau, Pandas, NumPy, Plotly, Matplotlib, and MYSQL. Actively pursuing new learning 
-opportunities to stay at the forefront of Data Analytics advancements. With a background in 
-education, adept at creating engaging and effective learning experiences tailored to diverse 
-audiences. Excels at bridging the gap between complex data concepts and individuals of all 
-backgrounds. Passionate about utilizing technology to drive data-driven decision making in various 
-domains.
+I am a proud dad of 4 and tech enthusiast. Every day has been a fulfilling learning journey for me. My passion for data visualization and making complex concepts accessible to a wide range of audiences is rooted in my background in education. Throughout my career, I have had the opportunity to teach face-to-face and online, to a diverse group of students ranging from kids to working professionals. I am constantly seeking new learning opportunities to enhance my skills, including proficiency in Python, Tableau, Pandas, Numpy, Plotly, Matplotlib, and MYSQL. In addition to staying current with the latest technological advancements in Data Analytics, Data Science, and Machine Learning, I take pleasure in delving into the application of technology in my beloved sport of football.
 
 ## Skills
 
