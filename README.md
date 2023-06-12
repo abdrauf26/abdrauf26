@@ -36,8 +36,7 @@ I am constantly seeking new learning opportunities to enhance my skills, includi
 
 [![image](https://user-images.githubusercontent.com/96287600/182019004-83960c75-13f4-42e3-ba4c-de64deedde7d.png)](https://github.com/abdrauf26/Neural-Style-Transfer)   
 
-[<img width="1024" alt="image" src="https://github.com/abdrauf26/abdrauf26/assets/96287600/771c6850-7f00-4b4e-a7f7-932ecdab86c5>](https://scratch.mit.edu/projects/833190784/)
-
+[<img width="1013" alt="image" src="https://github.com/abdrauf26/abdrauf26/assets/96287600/ecb50f1e-7979-452b-b477-e4472c4ed7f0">](https://scratch.mit.edu/projects/833190784/)
 
 
 ## Social 📧 
