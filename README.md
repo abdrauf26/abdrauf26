@@ -14,7 +14,7 @@ I am constantly seeking new learning opportunities to enhance my skills, includi
 ## Projects
 [![image](https://user-images.githubusercontent.com/96287600/171625874-85257b45-f158-4433-a40e-05996ba0c211.png)](https://github.com/abdrauf26/champions_league_repo)
 
-[<img width="1080" alt="image" src="https://github.com/abdrauf26/abdrauf26/assets/96287600/088d4410-43ad-462a-b9a9-614d01f21e56">](https://github.com/abdrauf26/condo_apt_repo)
+[<img width="1080" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96287600/250214396-088d4410-43ad-462a-b9a9-614d01f21e56.png">](https://github.com/abdrauf26/condo_apt_repo)
 
 [![image](https://user-images.githubusercontent.com/96287600/167428747-62a64b60-fc42-40a0-a211-fb19fac4157d.png)](https://github.com/abdrauf26/ml_repo)
 
