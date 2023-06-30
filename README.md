@@ -14,10 +14,10 @@ I am constantly seeking new learning opportunities to enhance my skills, includi
 ## Projects
 [![image](https://user-images.githubusercontent.com/96287600/171625874-85257b45-f158-4433-a40e-05996ba0c211.png)](https://github.com/abdrauf26/champions_league_repo)
 
-<img width="1080" alt="image" src="https://github.com/abdrauf26/abdrauf26/assets/96287600/44cd8297-fb62-4d9a-8ac1-8f301ab5c74d">
+[<img width="1080" alt="image" src="https://github.com/abdrauf26/abdrauf26/assets/96287600/44cd8297-fb62-4d9a-8ac1-8f301ab5c74d">](https://github.com/abdrauf26/abdul_rauf_repo)
 
 
-[![image](https://user-images.githubusercontent.com/96287600/187084184-9bfdc17b-bc9e-4c54-bde9-ae9c7e2ebfce.png)](https://github.com/abdrauf26/abdul_rauf_repo)
+[![image](https://user-images.githubusercontent.com/96287600/187084184-9bfdc17b-bc9e-4c54-bde9-ae9c7e2ebfce.png)]
 
 [![image](https://user-images.githubusercontent.com/96287600/167428747-62a64b60-fc42-40a0-a211-fb19fac4157d.png)](https://github.com/abdrauf26/ml_repo)
 
