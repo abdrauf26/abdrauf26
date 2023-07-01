@@ -30,15 +30,13 @@ I am constantly seeking new learning opportunities to enhance my skills, includi
 [<img width="1073" alt="image" src="https://user-images.githubusercontent.com/96287600/214588331-01a92a26-f208-4e25-b4e2-2d517cbf1564.png">
 ](https://github.com/abdrauf26/learning_microbit_proj)
 
-[<img width="1013" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96287600/245128705-ecb50f1e-7979-452b-b477-e4472c4ed7f0.png">](https://github.com/abdrauf26/scratch)
-
 [![image](https://user-images.githubusercontent.com/96287600/163551843-d4fb392b-713f-43fc-acba-0cd678a04129.png)](https://github.com/abdrauf26/web_scraping_repo)
 
 [![image](https://user-images.githubusercontent.com/96287600/163976546-c012a39b-1734-4e36-9696-6fe7c8a3aad7.png)](https://github.com/abdrauf26/my_sql_repo)
 
 [![image](https://user-images.githubusercontent.com/96287600/182019004-83960c75-13f4-42e3-ba4c-de64deedde7d.png)](https://github.com/abdrauf26/Neural-Style-Transfer)   
 
-<img width="1080" alt="image" src="https://github.com/abdrauf26/abdrauf26/assets/96287600/37ff5012-04c9-48c9-9202-0e91a68f6b0b">
+[<img width="1080" alt="image" src="https://github.com/abdrauf26/abdrauf26/assets/96287600/37ff5012-04c9-48c9-9202-0e91a68f6b0b">](https://github.com/abdrauf26/scratch)
 
 
 
