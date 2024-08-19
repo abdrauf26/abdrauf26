@@ -10,7 +10,7 @@ Dedicated tech educator with over 15 years of experience in the education indust
 
 
 ## Projects
-[<img width="1080" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96287600/250237190-3519cb98-8ce4-41d3-a972-238fda3be609.png">](https://github.com/abdrauf26/champions_league_repo)
+[<img width="1031" alt="image" src="https://github.com/user-attachments/assets/c9db95af-7015-4c73-b145-bd2ec27331c9">](https://github.com/abdrauf26/champions_league_repo) 
 
 [<img width="1080" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96287600/250214396-088d4410-43ad-462a-b9a9-614d01f21e56.png">](https://github.com/abdrauf26/condo_apt_repo)
 
