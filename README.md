@@ -10,13 +10,13 @@ Dedicated tech educator with over 15 years of experience in the education indust
 
 
 ## Projects
-[<img width="1031" alt="image" src="https://github.com/user-attachments/assets/c9db95af-7015-4c73-b145-bd2ec27331c9">](https://github.com/abdrauf26/champions_league_repo) 
-
 [<img width="1080" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96287600/250214396-088d4410-43ad-462a-b9a9-614d01f21e56.png">](https://github.com/abdrauf26/condo_apt_repo)
 
 [![image](https://user-images.githubusercontent.com/96287600/167428747-62a64b60-fc42-40a0-a211-fb19fac4157d.png)](https://github.com/abdrauf26/ml_repo)
 
 [![image](https://user-images.githubusercontent.com/96287600/161565008-39ba33fc-8194-48a5-a288-751fc89358d8.png)](https://public.tableau.com/app/profile/mohamed.abdul.rauf/viz/HowSengkanghasthenumberofhighestHDBunitssoldinSingaporeusingTableau_/HowSengkanghasthenumberofhighestHDBunitssoldinSingaporeusingTableau_)
+
+[<img width="1031" alt="image" src="https://github.com/user-attachments/assets/c9db95af-7015-4c73-b145-bd2ec27331c9">](https://github.com/abdrauf26/champions_league_repo) 
 
 [![image](https://user-images.githubusercontent.com/96287600/178280374-6d62400d-6d19-4d71-9498-8a1a7da7f8d1.png)](https://github.com/abdrauf26/data_visualization)
 
