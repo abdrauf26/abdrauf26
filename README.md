@@ -2,7 +2,7 @@
 
 ## About 
 
-I am a proud dad of 4 and tech educator. Every day has been a fulfilling learning journey for me. My passion for technology education and making complex concepts accessible to a wide range of audiences is rooted in my background in education. Throughout my career, I have had the opportunity to teach face-to-face and online, to a diverse group of students ranging from kids to working professionals. I am constantly seeking new learning opportunities to enhance my skills, including proficiency in the latest technological advancements in Data Analytics, Data Science, and Machine Learning. I take pleasure in delving into the application of technology in my beloved sport of football. An avid reader, I love reading about history and cultures.
+Dedicated tech educator with over 15 years of experience in the education industry. Passionate about nurturing digital literacy and coding proficiency in young minds, specializing in tools like Scratch, MakeCode Arcade and micro:bit. Committed to empowering students by seamlessly integrating technology into their learning journey.
 
 ## Skills
 
