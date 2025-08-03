@@ -2,7 +2,7 @@
 
 ## About 
 
-Dedicated tech educator with over 15 years of experience in the education industry. Passionate about nurturing digital literacy and coding proficiency in young minds, specializing in tools like Scratch, MakeCode Arcade and micro:bit. Committed to empowering students by seamlessly integrating technology into their learning journey.
+Educator with a passion for data visualization. 🧑‍🏫📊
 
 ## Skills
 
